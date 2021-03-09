@@ -1,5 +1,3 @@
-#Mohammad Eskandarani
-
 def binarySearch(array, start, end, element):
   if start > end:
     return -1
