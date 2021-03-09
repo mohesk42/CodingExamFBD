@@ -1,5 +1,3 @@
-//Mohammad Eskandarani
-
 function replaceAll(txt, old, newT){
     if(old != newT && old !=""){
         while(txt.indexOf(old)!=-1){
