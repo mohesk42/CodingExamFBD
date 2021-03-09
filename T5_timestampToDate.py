@@ -1,5 +1,3 @@
-#Mohammad Eskandarani
-
 from datetime import date
 
 class DateObject:
