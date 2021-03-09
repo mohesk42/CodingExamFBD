@@ -1,5 +1,3 @@
-#Mohammad Eskandarani
-
 def getUniques(array):
   uniques = []
   for i in range(len(array)):
