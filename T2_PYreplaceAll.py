@@ -1,5 +1,3 @@
-#Mohammad Eskandarani
-
 def replaceAll(txt, old, new):
   if len(old) == 0:
     return txt
