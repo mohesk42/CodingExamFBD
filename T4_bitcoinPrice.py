@@ -1,5 +1,3 @@
-#Mohammad Eskandarani
-
 import requests
 from time import sleep
 apiLink = "https://api.coindesk.com/v1/bpi/currentprice.json"
